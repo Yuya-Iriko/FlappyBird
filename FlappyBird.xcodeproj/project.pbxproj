@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5250C315242F984900D81FBA /* se.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5250C314242F984900D81FBA /* se.mp3 */; };
 		5277B628241E380500D51C26 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5277B627241E380500D51C26 /* AppDelegate.swift */; };
 		5277B62A241E380500D51C26 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5277B629241E380500D51C26 /* SceneDelegate.swift */; };
 		5277B62C241E380500D51C26 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5277B62B241E380500D51C26 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5250C314242F984900D81FBA /* se.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = se.mp3; sourceTree = "<group>"; };
 		5277B624241E380500D51C26 /* FlappyBird.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlappyBird.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5277B627241E380500D51C26 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5277B629241E380500D51C26 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		5277B626241E380500D51C26 /* FlappyBird */ = {
 			isa = PBXGroup;
 			children = (
+				5250C314242F984900D81FBA /* se.mp3 */,
 				5277B627241E380500D51C26 /* AppDelegate.swift */,
 				5277B629241E380500D51C26 /* SceneDelegate.swift */,
 				5277B62B241E380500D51C26 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5250C315242F984900D81FBA /* se.mp3 in Resources */,
 				5277B634241E380600D51C26 /* LaunchScreen.storyboard in Resources */,
 				5277B631241E380600D51C26 /* Assets.xcassets in Resources */,
 				5277B62F241E380500D51C26 /* Main.storyboard in Resources */,
